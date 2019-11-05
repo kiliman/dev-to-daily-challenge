@@ -1,0 +1,23 @@
+{
+  "name": "dev-to-daily-challenge",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "kiliman <kiliman@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "ts-jest": "^24.1.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.21",
+    "@typescript-eslint/eslint-plugin": "^2.6.1",
+    "@typescript-eslint/parser": "^2.6.1",
+    "eslint": "^6.6.0",
+    "eslint-config-prettier": "^6.5.0",
+    "jest": "^24.9.0",
+    "prettier": "^1.18.2",
+    "typescript": "^3.6.4"
+  }
+}
