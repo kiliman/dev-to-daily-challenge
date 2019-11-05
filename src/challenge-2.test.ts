@@ -7,7 +7,6 @@ describe('#2 diamond', () => {
   })
 
   it('should return a string as diamond shape with width', () => {
-    console.log(diamond(9))
     expect(diamond(3)).toMatchSnapshot()
     expect(diamond(5)).toMatchSnapshot()
     expect(diamond(9)).toMatchSnapshot()
