@@ -17,14 +17,16 @@ exports[`#2 diamond should return a string as diamond shape with width 2`] = `
 `;
 
 exports[`#2 diamond should return a string as diamond shape with width 3`] = `
-"    *    
-   ***   
-  *****  
- ******* 
-*********
- ******* 
-  *****  
-   ***   
-    *    
+"     *     
+    ***    
+   *****   
+  *******  
+ ********* 
+***********
+ ********* 
+  *******  
+   *****   
+    ***    
+     *     
 "
 `;
