@@ -1,4 +1,4 @@
-import { diamond } from './challenge-2'
+import { diamond } from '.'
 
 describe('#2 diamond', () => {
   it('should return null if width is even or negative', () => {

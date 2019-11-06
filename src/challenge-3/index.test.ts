@@ -1,4 +1,4 @@
-import { countVowels } from './challenge-3'
+import { countVowels } from '.'
 
 describe('#3 countVowels', () => {
   it('should return the number of vowels in string', () => {
