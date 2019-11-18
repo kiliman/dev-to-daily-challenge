@@ -10,8 +10,7 @@ it('should return smallest, minimumAbsent, largest from array of numbers', () =>
   expect(minMinMax([2, -4, 8, -5, 9, 7])).toStrictEqual([-5, -3, 9])
 })
 
-it('should return undefined for minimumAbsent if not present between smallest and largets', () => {
-  expect(minMinMax([-3, -2, -1, 0, 1, 2, 3])).toStrictEqual([-3, undefined, 3])
+it('should return undefined for minimumAbsent if not present between smallest and largest', () => {
   expect(minMinMax([-3, -2, -1, 0, 1, 2, 3])).toStrictEqual([-3, undefined, 3])
 })
 
