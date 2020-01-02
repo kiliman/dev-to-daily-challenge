@@ -5,7 +5,7 @@
   "author": "kiliman <kiliman@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "test": "jest"
+    "test": "jest --watch"
   },
   "dependencies": {
     "ts-jest": "^24.1.0"
